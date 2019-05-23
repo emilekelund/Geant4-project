@@ -46,7 +46,7 @@
 # the beam energy is in gaussian profile
 #
 /gps/ene/type Gauss
-/gps/ene/mono 70 MeV
+/gps/ene/mono 120 MeV
 /gps/ene/sigma 0.3 MeV
 
 #/beamLine/RangeShifter/RSMat G4_PLEXIGLASS
@@ -100,7 +100,7 @@
 /vis/open OGL 1600x800-0+0
 /vis/viewer/flush
 /vis/viewer/set/viewpointThetaPhi 30 140 deg
-/vis/viewer/zoomTo 7
+/vis/viewer/zoomTo 2
 #/vis/viewer/panTo 100  20 cm
 /vis/viewer/panTo 30  0 cm
 /vis/scene/add/trajectories
